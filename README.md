@@ -1,2 +1,5 @@
 # Projects
-hello everyone .This is Kankana Saha and I just uploaded few html projects that I made. Hope you all will like it
+hello everyone .This is Kankana Saha
+I am a first year BTech Student.
+I am enthusiastic and is willing to learn new things
+i just uploaded few HTML projects that I made hope you all will like it.
